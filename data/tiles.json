@@ -1,4 +1,5 @@
 {
+  "maxzoom": 14,
   "tileset_type": "mbtiles",
   "tiles": ["http://localhost:8080/map/{z}/{x}/{y}/tile.pbf"]
 }
